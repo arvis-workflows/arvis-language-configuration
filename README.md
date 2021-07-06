@@ -25,6 +25,13 @@ See [all past and current releases](https://github.com/xfslove/arvis-language-co
 
 ![ls.png](media/ls.png)
 
+## 🔗 This workflow is converted from [alfred-workflow](https://github.com/xfslove/alfred-language-configuration).
+
+* Note that there might be some code change or different actions from the original workflow.
+
+* Marked original workflow's creator to author.
+
+
 ## Supported Language List
 
 | keyword  | language |
