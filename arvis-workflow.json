@@ -4,7 +4,7 @@
   "creator": "hanwen huang",
   "description": "The pre-workfow of Google Translate for config language pair",
   "name": "arvis-language-configuration",
-  "readme": "",
+  "readme": "The pre-workfow of Google Translate for config language pair",
   "defaultIcon": "icon.png",
   "version": "0.0.1",
   "webAddress": "https://github.com/jopemachine/arvis-language-configuration#readme",

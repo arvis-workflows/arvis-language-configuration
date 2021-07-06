@@ -3,11 +3,9 @@
 ## Installation
 
 ### With NPM
+
 - Install the original workflow with `npm install -g arvis-google-translate`.
 - Install this configuration workflow with `npm install -g arvis-language-configuration`.
-
-## Changelog
-See [all past and current releases](https://github.com/xfslove/arvis-language-configuration/releases).
 
 ## Usage
 
