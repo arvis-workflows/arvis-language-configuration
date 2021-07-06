@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jopemachine/arvis-extension-validator/master/workflow-schema.json",
+  "category": "Tools",
+  "creator": "hanwen huang",
+  "description": "The pre-workfow of Google Translate for config language pair",
+  "name": "arvis-language-configuration",
+  "readme": "",
+  "defaultIcon": "icon.png",
+  "version": "0.0.1",
+  "webAddress": "https://github.com/jopemachine/arvis-language-configuration#readme",
+  "enabled": true,
+  "commands": [
+    {
+      "type": "scriptFilter",
+      "command": "trc",
+      "title": "language configuration",
+      "subtitle": "",
+      "scriptFilter": "node index.js \"{query}\"",
+      "runningSubtext": "Config...",
+      "withspace": true,
+      "argType": "required",
+      "actions": []
+    }
+  ]
+}
